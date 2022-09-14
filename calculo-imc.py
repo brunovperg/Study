@@ -16,6 +16,5 @@ def IMC():
         40
         45
     
-
-IMC()
 print()
+IMC()
