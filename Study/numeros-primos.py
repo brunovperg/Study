@@ -15,4 +15,3 @@ qntdPrimos = 0
 for primes in numPrimos:
     qntdPrimos+=1
 print(f"Quantidade de numeros primos é: {qntdPrimos}")
-print(namoraaal)
