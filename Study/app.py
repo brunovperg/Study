@@ -86,4 +86,5 @@
 
 L1 = [10,20,30,40,50]
 for idx, item in enumerate(L1):
+   print()
     
