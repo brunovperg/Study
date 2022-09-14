@@ -18,3 +18,4 @@ def IMC():
     
 
 IMC()
+print()
