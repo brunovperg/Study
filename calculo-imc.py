@@ -17,4 +17,4 @@ def IMC():
         40
         45
     
-print("Al")
+print("Ales")
