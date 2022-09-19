@@ -75,7 +75,7 @@
 
 # print(f"O fatorial de {numero} é igual a {fatorial}")
 
-################# MANIPULAÇÃO DE LISTAS ######################
+################# MANIPULAÇÃO DE LISTAS E TUPLAS ######################
 
 
 # lista.sort() == Ordem crescente
@@ -86,4 +86,44 @@
 
 # L1 = [10,20,30,40,50]
 # for idx, item in enumerate(L1):
-    
+#     if idx ==0:
+#         a=item
+#     else:
+#         b=item
+
+# print("a =", a,",", "b =", b)
+
+# T1 = (10,20,30,40,50)
+
+# a,b,c,d,e = T1
+
+# print("a=",a, "b=",b)
+# print("d+e=", d+e)
+
+# ########################## FRAGMENTANDO LISTAS ##########################
+
+
+# lista = ["a","b","c","d","e","f"]
+# print(lista[1:3])
+
+# print(lista[:4])
+
+# print(lista[3:])
+
+
+################# MÉTODOS DE LISTAS #####################
+
+# list.append(x) = ADICIONA UM ITEM NO FINAL DA LISTA
+
+# list.count(x) = CONTA QUANTAS VEZES O ELEMENTO APARECE NA LISTA
+ 
+# list.extend(xyz) = ADICIONA O CONTEÚDO EM SEQUÊNCIA [x,y,z]
+
+# list.remove(x) = EXCLUI A PRIMEIRA OCORRENCIA DE X NA LISTA 
+
+# list.sort() = ORGANIZA A LISTA EM ORDEM ALFABÉTICA OU CRESCENTE
+
+# list.reverse() = IVERTE AS POSIÇÕES DOS ITENS DA LISTA
+
+
+
